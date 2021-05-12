@@ -17,7 +17,7 @@
     "luxon": "^1.21.3",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.6",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "validator": "^12.1.0",
     "xlsx": "^0.15.4"
   },
